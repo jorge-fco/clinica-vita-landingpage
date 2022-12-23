@@ -2,7 +2,11 @@
 Landingpage
 
 ### Layout
-Header
-Navigation
-Main
-Footer
+- Header
+- Navigation
+- Main
+- Footer
+
+### Assets
+- Lazyload
+- ImgLiquid
