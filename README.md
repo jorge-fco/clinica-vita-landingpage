@@ -1,4 +1,4 @@
-# clinica-vita-landingpage
+# Clínica Vita Landingpage
 Landingpage
 
 ### Layout
