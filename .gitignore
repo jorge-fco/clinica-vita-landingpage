@@ -1,0 +1,7 @@
+assets/*
+*.pug
+*.html
+.DS_Store
+debug.log
+prepros.config
+prepros-6.config
