@@ -1,7 +1,7 @@
 # Clínica Vita Landingpage
 Landingpage
 
-### 📦 Layout
+### ✏️ Layout
 - Header
 - Navigation
 - Main
@@ -14,7 +14,10 @@ Landingpage
 - WhatsApp
 - Social Media
 
-### Assets
+### 📦 Assets
 - minireset.css
 - Lazyload
 - ImgLiquid
+
+### 📎 References
+- [Google Structured data](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
