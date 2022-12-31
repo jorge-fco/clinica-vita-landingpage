@@ -9,10 +9,10 @@ Landingpage
 
 ### ⚙️ Features
 - [ ] Title
-- Description
-- Favicon
-- Web Responsive
-- Web Animations
+- [ ] Description
+- [ ] Favicon
+- [ ] Web Responsive
+- [ ] Web Animations
 
 ### 📚 Information
 - Horario
