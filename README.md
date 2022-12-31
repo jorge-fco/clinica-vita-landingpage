@@ -7,7 +7,14 @@ Landingpage
 - Main
 - Footer
 
-### Information
+### Features
+- Title
+- Description
+- Favicon
+- Web Responsive
+- Web Animations
+
+### 📚 Information
 - Horario
 - Dirección
 - Teléfono
