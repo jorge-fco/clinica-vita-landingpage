@@ -7,8 +7,8 @@ Landingpage
 - Main
 - Footer
 
-### Features
-- Title
+### ⚙️ Features
+- [ ] Title
 - Description
 - Favicon
 - Web Responsive

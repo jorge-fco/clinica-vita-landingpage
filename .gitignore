@@ -1,4 +1,7 @@
-assets/*
+assets/js/*
+assets/css/*
+assets/scss/*
+
 *.pug
 *.html
 .DS_Store
