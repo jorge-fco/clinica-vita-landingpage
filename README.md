@@ -32,6 +32,8 @@ Landingpage
 - Gsap
 
 ### Deploy
+- [ ] Minify CSS
+- [ ] Minify JS
 
 ### 📎 References
 - [Google Structured data](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
