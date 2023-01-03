@@ -8,13 +8,13 @@ Landingpage
 - Footer
 
 ### ⚙️ Features
-- [ ]  Title
+- [x]  Title
 - Description
 - Share Image
 - Favicon
 - Metatags
-- Navigation fixed
-- Navigation scroll
+- [x] Navigation fixed
+- [x] Navigation scroll
 - [ ]  Web Responsive
 - [ ]  Web Animations
 
@@ -31,7 +31,7 @@ Landingpage
 - ImgLiquid
 - Gsap
 
-### Deploy
+### 🚀 Deploy
 - [ ] Minify CSS
 - [ ] Minify JS
 
