@@ -3,7 +3,6 @@ assets/css/*
 assets/scss/*
 
 *.pug
-*.html
 .DS_Store
 debug.log
 prepros.config
