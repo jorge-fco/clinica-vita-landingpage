@@ -15,6 +15,7 @@ Landingpage
 - Metatags
 - [x] Navigation fixed
 - [x] Navigation scroll
+- [x] WhatsApp Button
 - [ ]  Web Responsive
 - [ ]  Web Animations
 
@@ -34,6 +35,9 @@ Landingpage
 ### 🚀 Deploy
 - [ ] Minify CSS
 - [ ] Minify JS
+- Canonical
+- Google Site Verification
 
 ### 📎 References
+- [WhatsApp – How to use click to chat](https://faq.whatsapp.com/5913398998672934)
 - [Google Structured data](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
