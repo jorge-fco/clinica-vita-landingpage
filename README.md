@@ -37,7 +37,9 @@ Landingpage
 - [ ] Minify JS
 - Canonical
 - Google Site Verification
+- Facebook Open Graph
 
 ### 📎 References
+- [CSS pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)
 - [WhatsApp – How to use click to chat](https://faq.whatsapp.com/5913398998672934)
 - [Google Structured data](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
