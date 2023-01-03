@@ -8,11 +8,12 @@ Landingpage
 - Footer
 
 ### ⚙️ Features
-- [ ] Title
-- [ ] Description
-- [ ] Favicon
-- [ ] Web Responsive
-- [ ] Web Animations
+- [ x ]  Title
+- [ ]  Description
+- [ ] Share Image
+- [ ]  Favicon
+- [ ]  Web Responsive
+- [ ]  Web Animations
 
 ### 📚 Information
 - Horario
@@ -25,6 +26,7 @@ Landingpage
 - minireset.css
 - Lazyload
 - ImgLiquid
+- Gsap
 
 ### 📎 References
 - [Google Structured data](https://developers.google.com/search/docs/appearance/structured-data/image-license-metadata)
