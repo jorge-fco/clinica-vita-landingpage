@@ -31,11 +31,13 @@ Landingpage
 - Lazyload
 - ImgLiquid
 - Gsap
+- ScrollMagic
 
 ### 🚀 Deploy
-- [ ] Minify CSS
-- [ ] Minify JS
-- Canonical
+- [x] Minify CSS
+- [x] Minify JS
+- [x] Canonical
+- Google Analytics
 - Google Site Verification
 - Facebook Open Graph
 
