@@ -1,6 +1,7 @@
 assets/js/*
 assets/css/*
 assets/scss/*
+assets/favicons/*
 
 *.pug
 .DS_Store

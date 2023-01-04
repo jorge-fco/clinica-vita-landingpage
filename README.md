@@ -2,7 +2,7 @@
 Landingpage
 
 ### ✏️ Layout
-- Header
+- [x] Header
 - Navigation
 - Menu
 - [x] Main
@@ -18,7 +18,7 @@ Landingpage
 - [x] Navigation scroll
 - [x] WhatsApp Button
 - [ ]  Web Responsive
-- [ ]  Web Animations
+- [x] Web Animations
 
 ### 📚 Information
 - Horario
@@ -41,6 +41,8 @@ Landingpage
 - Google Analytics
 - Google Site Verification
 - Facebook Open Graph
+- Connect a primary domain (DNS)
+- SSL Certificate
 
 ### 📎 References
 - [CSS pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events)
