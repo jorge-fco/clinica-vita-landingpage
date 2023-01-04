@@ -4,8 +4,9 @@ Landingpage
 ### ✏️ Layout
 - Header
 - Navigation
-- Main
-- Footer
+- Menu
+- [x] Main
+- [x] Footer
 
 ### ⚙️ Features
 - [x]  Title
