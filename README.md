@@ -1,23 +1,31 @@
 # Clínica Vita Landingpage
 Landingpage
 
+### Architecture
+- Home
+- Error 404
+- Register
+- Privacy
+- Terms
+
 ### ✏️ Layout
 - [x] Header
-- Navigation
+- [x] Navigation
 - [x] Menu
 - [x] Main
 - [x] Footer
 
 ### ⚙️ Features
 - [x]  Title
-- Description
+- [x] Description
 - Share Image
-- Favicon
+- [x] Favicon
 - Metatags
+- Geo Location
 - [x] Navigation fixed
 - [x] Navigation scroll
 - [x] WhatsApp Button
-- [ ]  Web Responsive
+- [x]  Web Responsive
 - [x] Web Animations
 
 ### 📚 Information
