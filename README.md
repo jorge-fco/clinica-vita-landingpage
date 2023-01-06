@@ -2,11 +2,13 @@
 Landingpage
 
 ### Architecture
-- Home
-- Error 404
-- Register
-- Privacy
-- Terms
+- [ ] Home
+- [ ] Error 404
+- [ ] Register
+- [ ] Login
+- [ ] Dashboard
+- [ ] Privacy
+- [ ] Terms
 
 ### ✏️ Layout
 - [x] Header
@@ -14,6 +16,8 @@ Landingpage
 - [x] Menu
 - [x] Main
 - [x] Footer
+
+### Components
 
 ### ⚙️ Features
 - [x]  Title
