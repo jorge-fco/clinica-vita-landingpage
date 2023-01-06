@@ -22,14 +22,14 @@ Landingpage
 ### ⚙️ Features
 - [x]  Title
 - [x] Description
-- Share Image
+- [x] Share Image
 - [x] Favicon
 - Metatags
-- Geo Location
+- [x] Geo Location
 - [x] Navigation fixed
 - [x] Navigation scroll
 - [x] WhatsApp Button
-- [x]  Web Responsive
+- [x] Web Responsive
 - [x] Web Animations
 
 ### 📚 Information
