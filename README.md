@@ -1,5 +1,5 @@
 # Clínica Vita Landingpage
-Landingpage
+🍏 Landingpage
 
 ### Architecture
 - [x] Home
@@ -50,7 +50,7 @@ Landingpage
 - [x] Minify CSS
 - [x] Minify JS
 - [x] Canonical
-- Google Analytics
+- [x] Google Analytics
 - Google Site Verification
 - Facebook Open Graph
 - [x] Connect a primary domain (DNS)
