@@ -4,6 +4,7 @@ assets/scss/*
 
 *.pug
 .DS_Store
+.htaccess
 debug.log
 prepros.config
 prepros-6.config
