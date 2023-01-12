@@ -18,6 +18,9 @@
 - [x] Footer
 
 ### Components
+- Table
+- Checkbox
+- Select
 
 ### ⚙️ Features
 - [x] Title
