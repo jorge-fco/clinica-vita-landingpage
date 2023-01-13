@@ -4,10 +4,10 @@
 ### Architecture
 - [x] Home
 - [ ] Error 404
-- [ ] Register
+- [x] Register
 - [ ] Login
-- [ ] Dashboard
-- [ ] Privacy
+- [x] Dashboard
+- [x] Privacy
 - [ ] Terms
 
 ### ✏️ Layout
