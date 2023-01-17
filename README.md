@@ -54,7 +54,7 @@
 - [x] Minify JS
 - [x] Canonical
 - [x] Google Analytics
-- Google Site Verification
+- [x] Google Site Verification
 - Facebook Open Graph
 - [x] Connect a primary domain (DNS)
 - [x] SSL Certificate
