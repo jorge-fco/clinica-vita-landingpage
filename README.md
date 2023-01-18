@@ -3,7 +3,7 @@
 
 ### Architecture
 - [x] Home
-- [ ] Error 404
+- [x] Error 404
 - [x] Register
 - [ ] Login
 - [x] Dashboard
@@ -27,7 +27,7 @@
 - [x] Description
 - [x] Share Image
 - [x] Favicon
-- Metatags
+- [x] Metatags
 - [x] Geo Location
 - [x] Navigation fixed
 - [x] Navigation scroll
