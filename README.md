@@ -7,6 +7,7 @@
 - [x] Register
 - [ ] Login
 - [x] Dashboard
+- [ ] Services
 - [x] Privacy
 - [ ] Terms
 
